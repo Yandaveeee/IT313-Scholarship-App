@@ -1,1 +1,21 @@
-
+INSERT INTO Grantees (GranteeID, ProgramID, StudentFullName, School, Course, Status, CreatedAt, UpdatedAt) VALUES
+(1, 14, 'Ian Dave Punayo', 'CSU Gonzaga', 'BSIT', 'Active', #2025-11-05#, #2025-11-06#),
+(2, 3, 'Mike Ryno Santiago', 'CSU Gonzaga', 'BSIT', 'Active', #2025-11-05#, #2025-11-06#),
+(3, 3, 'Angel Mae Ablog', 'CSU Gonzaga', 'BSIT', 'Active', #2025-11-06#, #2025-11-06#),
+(7, 6, 'Daniel Suboc', 'CSU Gonzaga', 'BSIT', 'Active', #2025-11-06#, #2025-11-06#),
+(15, 4, 'Rhyza Gonzales', 'CSU Gonzaga', 'BSIT', 'Active', #2025-11-06#, #2025-11-06#),
+(16, 4, 'Allyssa Cariazo', 'CSU Gonzaga', 'BSIT', 'Active', #2025-11-06#, #2025-11-06#),
+(17, 6, 'Ashley Mcabangun', 'CSU Gonzaga', 'BSIT', 'Active', #2025-11-06#, #2025-11-06#),
+(18, 4, 'Hannah Joyce Lagat', 'CSU Gonzaga', 'BSIT', 'Active', #2025-11-06#, #2025-11-06#),
+(19, 8, 'Jestoni Flores', 'CSU Gonzaga', 'BSIT', 'Active', #2025-11-06#, #2025-11-06#),
+(20, 6, 'John Carlo Flores', 'CSU Gonzaga', 'BSIT', 'Active', #2025-11-06#, #2025-11-06#),
+(21, 10, 'Izza Ugalde', 'CSU Gonzaga', 'BSIT', 'Active', #2025-11-06#, #2025-11-06#),
+(22, 10, 'Arriane Jane Magno', 'CSU Gonzaga', 'BSIT', 'Active', #2025-11-06#, #2025-11-06#),
+(23, 21, 'Deshley Manguma', 'CSU Gonzaga', 'BSIT', 'Active', #2025-11-06#, #2025-11-06#),
+(24, 7, 'Trisha Servera', 'CSU Gonzaga', 'BSIT', 'Active', #2025-11-06#, #2025-11-06#),
+(25, 9, 'Nimfa Anson', 'CSU Gonzaga', 'BSIT', 'Active', #2025-11-06#, #2025-11-06#),
+(26, 20, 'Lourence Sotoza', 'CSU Gonzaga', 'BSIT', 'Active', #2025-11-06#, #2025-11-06#),
+(27, 24, 'John Rey Torres', 'CSU Gonzaga', 'BSIT', 'Active', #2025-11-06#, #2025-11-06#),
+(28, 17, 'Deejay De la Cruz', 'CSU Gonzaga', 'BSIT', 'Active', #2025-11-06#, #2025-11-06#),
+(29, 17, 'Paolo Molina', 'CSU Gonzaga', 'BSIT', 'Active', #2025-11-06#, #2025-11-06#),
+(30, 20, 'Renzo Balboa', 'CSU Gonzaga', 'BSIT', 'Active', #2025-11-06#, #2025-11-06#);
